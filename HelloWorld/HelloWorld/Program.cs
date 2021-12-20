@@ -8,5 +8,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
         }
+
+        public void AnyString(string word)
+        {
+            Console.WriteLine(word);
+        }
     }
 }
